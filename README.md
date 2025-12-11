@@ -1,3 +1,5 @@
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/34c12bc3-2f37-44db-831f-cb20519e85a1" />
+
 MicroMacro – Mouse Input Automation Tool
 
 Created by NullSec8
