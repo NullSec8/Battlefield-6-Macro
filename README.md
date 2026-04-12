@@ -3,8 +3,7 @@ MicroMacro – Mouse Input Automation Tool
 Created by NullSec8
 
 Demo
-<p align="center"> <video width="480" controls> <source src="https://github.com/user-attachments/assets/c9ea2f80-8030-4145-aecf-36157380b6ae" type="video/mp4"> Your browser does not support the video tag. </video> </p>
-
+[![MicroMacro Demo](assets/demo.png)](https://github.com/user-attachments/assets/c9ea2f80-8030-4145-aecf-36157380b6ae)
 Direct link:
 https://github.com/user-attachments/assets/c9ea2f80-8030-4145-aecf-36157380b6ae
 
